@@ -21,7 +21,7 @@ def Calc_INSS():
         INSS = float(salario * 8 / 100)
 
     elif salario >= 1693.73 and salario <= 2822.90:
-        INSS = float(salario * 8 / 100)
+        INSS = float(salario * 9 / 100)
 
     elif salario >= 2822.91 and salario <= 5645.80:
         INSS = float(salario * 11 / 100)
